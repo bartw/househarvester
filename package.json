@@ -1,0 +1,21 @@
+{
+  "name": "househarvester",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartw/househarvester.git"
+  },
+  "author": "Bart Wijnants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartw/househarvester/issues"
+  },
+  "homepage": "https://github.com/bartw/househarvester#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
